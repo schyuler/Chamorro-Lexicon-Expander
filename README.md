@@ -1,10 +1,9 @@
-# Chamorro-Affixes
+# Chamorro-Lexicon-Expander
 
-A program that modifies Chamorro words by applying affixes that are commonly used in the language. This will be used to create a tool for supporting language students to learn how to correctly modify root words. This will also be used to enhance existing Chamorro - English dictionaries to provide learners with more expanded reference materials.
+Chamorro Lexicon Expander is a Python project designed to expand the Chamorro-English dictionary by generating all possible affixed variations of Chamorro root words. This tool automates the process of creating word forms using common Chamorro prefixes, suffixes, and infixes according to linguistic rules. This project enables a more comprehensive representation of Chamorro vocabulary for language learners, linguists, and dictionary development. (In Progress)
 
 ## Contributers
-
-- Schyuler Lujan
+Schyuler Lujan
 
 # License and Copyright
 Schyuler Lujan
